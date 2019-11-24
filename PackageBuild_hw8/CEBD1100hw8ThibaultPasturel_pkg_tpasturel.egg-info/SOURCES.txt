@@ -1,0 +1,8 @@
+README.md
+setup.py
+CEBD1100hw8ThibaultPasturel_pkg/CEBD1100homework8ThibaultPasturel.py
+CEBD1100hw8ThibaultPasturel_pkg/__init__.py
+CEBD1100hw8ThibaultPasturel_pkg_tpasturel.egg-info/PKG-INFO
+CEBD1100hw8ThibaultPasturel_pkg_tpasturel.egg-info/SOURCES.txt
+CEBD1100hw8ThibaultPasturel_pkg_tpasturel.egg-info/dependency_links.txt
+CEBD1100hw8ThibaultPasturel_pkg_tpasturel.egg-info/top_level.txt
